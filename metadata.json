@@ -1,0 +1,6 @@
+{
+  "name": "ELEVENS Restaurant Website",
+  "description": "Premium restaurant website for ELEVENS in Gola Gokaran Nath.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
