@@ -1,9 +1,6 @@
 @import "tailwindcss";
 
 @theme {
-  --font-serif: "Playfair Display", ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
-  --font-sans: "Poppins", ui-sans-serif, system-ui, sans-serif;
-
   --color-primary: #111111;
   --color-secondary: #D4AF37;
   --color-accent: #F8F4EE;
